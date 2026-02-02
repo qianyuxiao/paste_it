@@ -1,0 +1,2 @@
+nicegui
+google-cloud-storage
